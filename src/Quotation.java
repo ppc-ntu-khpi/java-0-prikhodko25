@@ -5,3 +5,4 @@ public class Quotation {
     System.out.println(quote + "\n- " + author);
   }
 }
+   
