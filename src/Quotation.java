@@ -1,6 +1,6 @@
 public class Quotation {
-  String quote = "На світі той наймудріший, хто найдужче любить життя.";
-  String author = "Василь Симоненко";
+  String quote = "В своїй хаті своя й правда, І сила, і воля.";
+  String author = "Тарас Шевченко";
   public void display() {
     System.out.println(quote + "\n- " + author);
   }
