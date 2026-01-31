@@ -6,4 +6,4 @@
 В сноске:  
 ![alt-текст][logo]
 
-[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Текст заголовка логотипа 2"
+[logo]: https://github.com/ppc-ntu-khpi/java-0-prikhodko25/blob/main/Solution/task1.2.png "task1.2"
